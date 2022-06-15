@@ -5,6 +5,7 @@ image: "/images/Message-Online-Chat-Social-Tex.jpg"
 draft: false
 ---
 
+![Mastering Cold Email Deliverability](/images/email-deliverability.jpeg)
 ### Mastering Cold Email Deliverability
 
 ###### Effective Email marketing can broaden your customer base. Read this guide to learn how to master your cold Email deliverability.

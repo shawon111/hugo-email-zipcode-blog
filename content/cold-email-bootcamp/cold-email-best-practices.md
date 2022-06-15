@@ -5,6 +5,7 @@ image: "/images/email hosting service.jpeg"
 draft: false
 ---
 
+![Cold Email Best Practices](/images/email-hosting-service.jpeg)
 ### Cold Email Best Practices
 
 ###### Do want to learn how to plan and execute cold email campaigns? Read this guide to find out the best practices for generating leads.

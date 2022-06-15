@@ -5,6 +5,8 @@ image: "/images/Message-Online-Chat-Social-Tex.jpg"
 draft: false
 ---
 
+![Writing Effective Cold Emails and Follow-Up Email](/images/follow-up-email.jpeg)
+
 ### Writing Effective Cold Emails and Follow-Up Email
 
 ###### Not all cold Emails or follow-up Emails are built the same. Read this guide to learn how to write effective copy for a cold Email or a follow-up Email.

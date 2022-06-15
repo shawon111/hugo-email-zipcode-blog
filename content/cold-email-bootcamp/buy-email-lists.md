@@ -1,9 +1,11 @@
 ---
 title: "Getting Email Lists and List Management"
 date: 2022-06-15T01:53:52+06:00
-image: "/images/Message-Online-Chat-Social-Tex.jpg"
 draft: false
 ---
+
+
+![Getting Email Lists and List Management](/images/Email..jpg)
 
 ### Getting Email Lists and List Management
 
